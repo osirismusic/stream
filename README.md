@@ -1,2 +1,2 @@
-# stream
+# Osiris Music Stream
 OSIRIS MUSIC STREAMING TECHNOLOGY
